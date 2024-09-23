@@ -41,5 +41,13 @@ What we are going to do in this demo?
 ====================================
 In this demo we are going to use file-adapter. Using that file adapter we will move some files from source to destination
 
-reader will read from source
-writer will write to destination
+
+Code explanation
+================
+
+1. We need a configuration class and inside that class we need to write a reader and writer
+reader will read from source directory
+writer will write to destination directory
+
+That's why we need 2 beans.
+

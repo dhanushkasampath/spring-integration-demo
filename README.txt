@@ -51,3 +51,6 @@ writer will write to destination directory
 
 That's why we need 2 beans.
 
+After adding the writer and reader, start the application. Then we can see that as in img-3.png application has started with one channel and a subscriber.
+Also If we go and check the destination directory we can see files has been copied.
+

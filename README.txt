@@ -1,8 +1,5 @@
-Spring integration adds support for enterprise integration patterns.
-It enables lightweight messaging and supports integration with external systems via declarative adapters.
-
-Spring Integration
-=================
+What is Spring Integration?
+==========================
 
 Spring Integration enables lightweight messaging within Spring-based applications and also it supports interaction
 with external systems.
